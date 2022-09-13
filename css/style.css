@@ -314,8 +314,8 @@ ul{ margin: 0; padding: 0; list-style: none;}
 .z-depth-4{ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);}
 .z-depth-5{ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);}
 
-.black-bg-pattren{ background: url(../images/black-bg-pattren.jpg) repeat;}
-.blue-bg-pattren{ background: url(../images/blue-bg-pattren.jpg) repeat;}
+.black-bg-pattren{ background: url(../https://ysfbutt.github.io/lincoln/images/black-bg-pattren.jpg) repeat;}
+.blue-bg-pattren{ background: url(../https://ysfbutt.github.io/lincoln/images/blue-bg-pattren.jpg) repeat;}
 .tc-hover{ box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); border-radius: 3px;}
 .tc-hover:hover{ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);}
 /****** Global Elements ***********************************************************
@@ -780,7 +780,7 @@ padding: 50px; margin: 0 0 0 -150px; z-index: -1;}
 
 /****** Home Page 5 ***********************************************************
 *********************************************************** Home Page 5 ******/
-.box-layout{ background: url(../images/body-bg.png) repeat; background-attachment: fixed;}
+.box-layout{ background: url(../https://ysfbutt.github.io/lincoln/images/body-bg.png) repeat; background-attachment: fixed;}
 .box-layout .wrapper{ max-width: 1250px; margin: 50px auto; background: #ebebeb;}
 
 /* Video Banner */
@@ -818,7 +818,7 @@ video{ width: 100%; height: auto; max-height: 100%;}
 /* Contact Us */
 .contact-us{ position: relative;}
 .contact-us::before{ content: ""; position: absolute; top: 0; width: 100%; height: 310px;
-background: url(../images/black-bg-pattren.jpg) repeat;}
+background: url(../https://ysfbutt.github.io/lincoln/images/black-bg-pattren.jpg) repeat;}
 .contact-address{ background: #fff; padding: 30px;}
 .contact-address .address-list{ margin: 0 0 120px;}
 .contact-address .social-icons-2 ul li a{ color: #ccc;}

@@ -3000,7 +3000,7 @@ return Outlayer;
   // universal module definition
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope/js/item',[
+    define( 'isotope/https://ysfbutt.github.io/lincoln/js/item',[
         'outlayer/outlayer'
       ],
       factory );
@@ -3078,7 +3078,7 @@ return Item;
 
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope/js/layout-mode',[
+    define( 'isotope/https://ysfbutt.github.io/lincoln/js/layout-mode',[
         'get-size/get-size',
         'outlayer/outlayer'
       ],
@@ -3445,7 +3445,7 @@ return Item;
   // universal module definition
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope/js/layout-modes/masonry',[
+    define( 'isotope/https://ysfbutt.github.io/lincoln/js/layout-modes/masonry',[
         '../layout-mode',
         'masonry/masonry'
       ],
@@ -3523,7 +3523,7 @@ function extend( a, b ) {
   // universal module definition
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope/js/layout-modes/fit-rows',[
+    define( 'isotope/https://ysfbutt.github.io/lincoln/js/layout-modes/fit-rows',[
         '../layout-mode'
       ],
       factory );
@@ -3590,7 +3590,7 @@ return FitRows;
   // universal module definition
   if ( typeof define == 'function' && define.amd ) {
     // AMD
-    define( 'isotope/js/layout-modes/vertical',[
+    define( 'isotope/https://ysfbutt.github.io/lincoln/js/layout-modes/vertical',[
         '../layout-mode'
       ],
       factory );
@@ -3655,12 +3655,12 @@ return Vertical;
         'get-size/get-size',
         'matches-selector/matches-selector',
         'fizzy-ui-utils/utils',
-        'isotope/js/item',
-        'isotope/js/layout-mode',
+        'isotope/https://ysfbutt.github.io/lincoln/js/item',
+        'isotope/https://ysfbutt.github.io/lincoln/js/layout-mode',
         // include default layout modes
-        'isotope/js/layout-modes/masonry',
-        'isotope/js/layout-modes/fit-rows',
-        'isotope/js/layout-modes/vertical'
+        'isotope/https://ysfbutt.github.io/lincoln/js/layout-modes/masonry',
+        'isotope/https://ysfbutt.github.io/lincoln/js/layout-modes/fit-rows',
+        'isotope/https://ysfbutt.github.io/lincoln/js/layout-modes/vertical'
       ],
       function( Outlayer, getSize, matchesSelector, utils, Item, LayoutMode ) {
         return factory( window, Outlayer, getSize, matchesSelector, utils, Item, LayoutMode );

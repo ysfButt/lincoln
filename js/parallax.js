@@ -1,7 +1,7 @@
 /*!
- * parallax.js v1.3.1 (http://pixelcog.github.io/parallax.js/)
+ * parallax.js v1.3.1 (http://pixelcog.github.io/parallax.https://ysfbutt.github.io/lincoln/js/)
  * @copyright 2015 PixelCog, Inc.
- * @license MIT (https://github.com/pixelcog/parallax.js/blob/master/LICENSE)
+ * @license MIT (https://github.com/pixelcog/parallax.https://ysfbutt.github.io/lincoln/js/blob/master/LICENSE)
  */
 
 ;(function ( $, window, document, undefined ) {

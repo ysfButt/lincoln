@@ -1,5 +1,5 @@
 /*! bigSlide - v0.11.0 - 2016-04-13
-* http://ascott1.github.io/bigSlide.js/
+* http://ascott1.github.io/bigSlide.https://ysfbutt.github.io/lincoln/js/
 * Copyright (c) 2016 Adam D. Scott; Licensed MIT */
 (function (factory) {
   'use strict';
